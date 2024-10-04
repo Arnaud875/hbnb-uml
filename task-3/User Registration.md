@@ -1,4 +1,7 @@
-```
+# User Registration UML sequence diagram
+What happens when a user signs up for a new account?
+
+```mermaid
 sequenceDiagram
 
 User->>API: POST /register<br>(name, email, password)
