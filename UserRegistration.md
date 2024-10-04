@@ -1,6 +1,3 @@
-# Review Submission UML sequence diagram
-What happens when a user submits a review for a place?
-
 ```mermaid
 sequenceDiagram
 
