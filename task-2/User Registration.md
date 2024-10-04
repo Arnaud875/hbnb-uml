@@ -1,5 +1,5 @@
-# User Registration UML sequence diagram
-What happens when a user signs up for a new account?
+# Review Submission UML sequence diagram
+What happens when a user submits a review for a place?
 
 ```mermaid
 sequenceDiagram
